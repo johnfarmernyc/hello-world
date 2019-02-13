@@ -1,2 +1,3 @@
-# hello-world
-quick example to get back up to speed on git
+# Purpose 
+
+The purpose of this is to re-familiarize myself with Git so that I can use it when building my React app.
